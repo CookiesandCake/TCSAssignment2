@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ParseTree
+comment1.params=
+comment1.target=ParseTree()
+comment2.params=root
+comment2.target=ParseTree(ParseTree.TreeNode)
+comment3.params=
+comment3.target=ParseTree.TreeNode\ getRoot()
+comment4.params=root
+comment4.target=void\ setRoot(ParseTree.TreeNode)
+numComments=5
